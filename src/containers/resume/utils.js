@@ -8,13 +8,13 @@ export const data = {
       },
       {
         title: "Projet ",
-        subTitle: "Gestion des itteniraire",
+        subTitle: "Gestion des itinéraires",
         description:
           "Python,Pyqt5 2022",
       },
       {
         title: "Project Java",
-        subTitle: "Gestion de bibliotheque",
+        subTitle: "Gestion de bibliothěque",
         description:
           "Java,Swing 2023",
       },
